@@ -125,3 +125,51 @@
   margin-top: 50px;
   margin-bottom: 50px;
 }
+
+
+.bot-container {
+  text-align: center;
+  background-color: #54BAB9;
+  padding: 5px 0 5px 0;
+}
+
+.copyright {
+  color: #DDDDDD;
+  padding-top: 10px;
+}
+
+.dividerb {
+  height: 5px;
+  background-color: #191A19;
+  padding: 0;
+  margin: 0;
+}
+
+
+.row {
+  margin:0;
+}
+
+.fa-circle-exclamation {
+  font-size: 75px;
+  color: #F24C4C;
+
+}
+
+.fa-circle-exclamation:hover {
+  opacity: 0.9;
+}
+
+.erro-row {
+  text-align: center;
+  padding: 10% 7%;
+
+}
+
+.erro {
+  line-height: 40px;
+}
+
+.erro2 {
+  text-align: center;
+}
